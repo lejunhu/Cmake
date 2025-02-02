@@ -1,5 +1,5 @@
 # ignore all files in build directories
-Step1_build/
+*_build/
 
 # igore .vscode
 .vscode/
